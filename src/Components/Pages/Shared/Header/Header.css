@@ -1,0 +1,32 @@
+#indiv input{
+    border:0;
+    box-shadow:0;
+    background-color: transparent;
+    color:white;
+   
+}
+#indiv input:focus{
+    color:white;
+        border:0;
+     outline: none;
+ }
+ #indiv{
+    border:1px solid white;
+    border-radius: 5px;
+    /* background: ; */
+    background: transparent;
+    color:white;
+    padding:5px;
+    
+ }
+ .navigationbaar a{
+    color:white;
+    text-decoration: none;
+    margin-left: 15px;
+ }
+ #indiv:focus{
+    border:1px solid white;
+ }
+ #navback{
+    background-color:rgb(0, 0, 0,0.1)
+ }

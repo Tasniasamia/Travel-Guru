@@ -1,0 +1,33 @@
+.header2nav a{
+    color:black;
+    text-decoration: none;
+    margin-left: 15px;
+}
+#indiv2 input{
+    border:0;
+    box-shadow:0;
+    background-color: transparent;
+    color:black;
+   
+}
+#indiv2 input:focus{
+    color:black;
+        border:0;
+     outline: none;
+ }
+ #indiv2{
+    border:1px solid black;
+    border-radius: 5px;
+    /* background: ; */
+    background: transparent;
+    color:black;
+    padding:5px;
+    
+ }
+ 
+ #indiv2:focus{
+    border:1px solid black;
+ }
+ #navback{
+    background-color:rgb(0, 0, 0,0.1)
+ }
